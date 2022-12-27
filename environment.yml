@@ -1,0 +1,9 @@
+name: sd-dataset-curation-tools
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - python=3.10
+  - pytorch=1.13.1
+  - torchvision=0.14.1
